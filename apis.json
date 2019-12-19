@@ -1,0 +1,66 @@
+{
+    "name": "Paspartout",
+    "description": "Paspartout helps you to build and maintain a free online portfolio or online shop, use paspartout to show your work to the world.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/885-paspartout.jpg",
+    "tags": [
+        "art",
+        "arts",
+        "have api",
+        "portfolios"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/paspartout\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Paspartout",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/885-paspartout.jpg",
+            "humanURL": "http:\/\/paspartout.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paspartout-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/paspartout-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/api.paspartout.com\/public\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/paspartout"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/paspartout"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/api.paspartout.com\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/Paspartout"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/pptout"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/paspartout.com\/"
+        }
+    ]
+}
